@@ -12,5 +12,6 @@ while num != 1:
         num_list.append(num)
 print(num_list)
 
-
+# if you type 227 the result will be 
+# [227, 682, 341, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]
 
